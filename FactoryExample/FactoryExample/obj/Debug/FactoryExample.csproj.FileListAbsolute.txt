@@ -1,0 +1,7 @@
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe.config
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\bin\Debug\FactoryExample.exe
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\bin\Debug\FactoryExample.pdb
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csprojResolveAssemblyReference.cache
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\obj\Debug\FactoryExample.csproj.CoreCompileInputs.cache
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\obj\Debug\FactoryExample.exe
+c:\users\lukasz\source\repos\FactoryExample\FactoryExample\obj\Debug\FactoryExample.pdb
